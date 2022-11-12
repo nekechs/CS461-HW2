@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -fsanitize=address,undefined -Wall CMakeFiles/ctree_test.dir/ctree_test.c.o -o ../ctree_test  core/libcore.a models/libmodels.a /usr/lib64/libgsl.so core/libcore.a -lm /usr/lib64/libgslcblas.so 
