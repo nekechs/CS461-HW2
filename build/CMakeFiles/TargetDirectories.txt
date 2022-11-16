@@ -11,6 +11,8 @@
 /home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/ctree_test.dir
 /home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/ctree_ssize_test.dir
 /home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/ctree_sigma_test.dir
+/home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/ctree_ssize_log_err.dir
+/home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/logistic_test.dir
 /home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/edit_cache.dir
 /home/jamunk/Dev/CS461/CS461-HW2/build/src/CMakeFiles/rebuild_cache.dir
 /home/jamunk/Dev/CS461/CS461-HW2/build/src/core/CMakeFiles/core.dir

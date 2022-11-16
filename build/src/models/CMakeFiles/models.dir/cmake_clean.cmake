@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/models.dir/decisiontree.c.o.d"
   "CMakeFiles/models.dir/linear_regression.c.o"
   "CMakeFiles/models.dir/linear_regression.c.o.d"
+  "CMakeFiles/models.dir/logistic_regression.c.o"
+  "CMakeFiles/models.dir/logistic_regression.c.o.d"
   "libmodels.a"
   "libmodels.pdb"
 )

@@ -1,2 +1,2 @@
-/usr/bin/ar qc libmodels.a CMakeFiles/models.dir/decisiontree.c.o CMakeFiles/models.dir/linear_regression.c.o CMakeFiles/models.dir/classtree.c.o
+/usr/bin/ar qc libmodels.a CMakeFiles/models.dir/decisiontree.c.o CMakeFiles/models.dir/linear_regression.c.o CMakeFiles/models.dir/classtree.c.o CMakeFiles/models.dir/logistic_regression.c.o
 /usr/bin/ranlib libmodels.a
