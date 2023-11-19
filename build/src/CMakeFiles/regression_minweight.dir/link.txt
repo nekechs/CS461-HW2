@@ -1,1 +1,0 @@
-/usr/lib64/ccache/cc -fsanitize=address,undefined -Wall CMakeFiles/regression_minweight.dir/regression_minweight.c.o -o ../regression_minweight  core/libcore.a models/libmodels.a /usr/lib64/libgsl.so core/libcore.a -lm /usr/lib64/libgslcblas.so 

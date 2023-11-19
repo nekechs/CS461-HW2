@@ -1,1 +1,0 @@
-/usr/lib64/ccache/cc -fsanitize=address,undefined -Wall CMakeFiles/main.dir/main.c.o -o ../main  core/libcore.a models/libmodels.a /usr/lib64/libgsl.so core/libcore.a -lm /usr/lib64/libgslcblas.so 
