@@ -1,4 +1,4 @@
-# CS461-HW1
+# CS461-HW2
 first homework for ML principles
 
 Compilation and running
@@ -10,7 +10,7 @@ Solution, then is to use either a virtual machine or a local machine that can ha
 
 To compile the project, go to the root directory of this project (the one that contains the README), and make a build folder by running `$ mkdir build`. Then move to the build folder and run `$ cmake ..`. Ensure that the project is able to build. Then, run `$ make -j4` to compile the project and generate the executables.
 
-Then from build folder, you have multiple choices of executables to choose from. Choose the one relevant to you (see homework pdf for more details)
+Then from build folder, you have multiple choices of executables to choose from. Choose the one relevant to you.
 
 General Project Notes
 ---------------------
